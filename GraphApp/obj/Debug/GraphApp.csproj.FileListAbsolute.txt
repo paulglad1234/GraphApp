@@ -1,0 +1,10 @@
+C:\Users\Павел.DESKTOP-61A36FF\source\repos\GraphApp\GraphApp\bin\Debug\GraphApp.exe.config
+C:\Users\Павел.DESKTOP-61A36FF\source\repos\GraphApp\GraphApp\bin\Debug\GraphApp.exe
+C:\Users\Павел.DESKTOP-61A36FF\source\repos\GraphApp\GraphApp\bin\Debug\GraphApp.pdb
+C:\Users\Павел.DESKTOP-61A36FF\source\repos\GraphApp\GraphApp\obj\Debug\GraphApp.csprojResolveAssemblyReference.cache
+C:\Users\Павел.DESKTOP-61A36FF\source\repos\GraphApp\GraphApp\obj\Debug\GraphApp.GraphApp.resources
+C:\Users\Павел.DESKTOP-61A36FF\source\repos\GraphApp\GraphApp\obj\Debug\GraphApp.Properties.Resources.resources
+C:\Users\Павел.DESKTOP-61A36FF\source\repos\GraphApp\GraphApp\obj\Debug\GraphApp.csproj.GenerateResource.Cache
+C:\Users\Павел.DESKTOP-61A36FF\source\repos\GraphApp\GraphApp\obj\Debug\GraphApp.csproj.CoreCompileInputs.cache
+C:\Users\Павел.DESKTOP-61A36FF\source\repos\GraphApp\GraphApp\obj\Debug\GraphApp.exe
+C:\Users\Павел.DESKTOP-61A36FF\source\repos\GraphApp\GraphApp\obj\Debug\GraphApp.pdb
